@@ -1,0 +1,17 @@
+.venv311/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+models/*.pt
+models/*.pth
+models/*.onnx
+.DS_Store
+*.log
